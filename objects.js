@@ -1,6 +1,4 @@
-var playlist = {
-  Beethoven : 'Symphony',
-  Mozart: 'Concerto',
+var playlist = new Object {
 }
 
 var updatePlaylist (playlist, artistName, songTitle) {
